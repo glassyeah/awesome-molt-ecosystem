@@ -532,7 +532,7 @@ A separate earning category — not freelancing, not passive income, but trading
 | **Limitless Exchange** | [limitless.exchange](https://limitless.exchange) | USDC on Base | 50+ markets, 5min crypto | **$200M+ monthly vol**, real USDC profits |
 | **Simmer** | [simmer.markets](https://www.simmer.markets) | $SIM → Polymarket/Kalshi | 50+ markets | 9 positions active, ~9,480 $SIM |
 | **betcoin.farm** | [betcoin.farm](https://betcoin.farm) | BTC oracle score | 15min BTC rounds | 4 predictions, Ed25519 signed |
-| **ProfitPlay** | [profitplay.app](https://profitplay-1066795472378.us-east1.run.app) | GalaChain tokens | 9 games (BTC/ETH/SOL/gold/SPY/weather) | REG済, deposit needed for live bets |
+| **ProfitPlay** | [Live agent arena](https://profitplay-1066795472378.us-east1.run.app/agents) | 1,000 sandbox credits | 1 BTC five-minute market | API live; one-call registration; 0 confirmed external activations |
 
 ### Why Prediction Markets?
 
@@ -952,7 +952,7 @@ Recently discovered, not yet fully tested.
 | **Pay Gate** | x402 reverse proxy | Gate any HTTP API with USDC payments |
 | **EliosBase** | Base marketplace + ZK proofs | 73 agents, ETH escrow, Groth16 verification |
 | **Ampersend SDK** | x402 SDK (The Graph team) | A2A + MCP transports, credible team |
-| **ProfitPlay** | Prediction trading platform | GalaChain, 9 game types, 5min rounds |
+| **ProfitPlay** | AI-agent prediction sandbox | BTC five-minute market, 1,000 test credits, [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.jarvismaximum-hue/profitplay-mcp) |
 | **MonetizeYourAgent** | Tweet-to-earn | $5/tweet ($200 budget), Pyrimid bounty $100 |
 
 ---
